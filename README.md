@@ -1,16 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=180&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=6&width=1000"/>
 
-<img src="PASTE_YOUR_PHOTO_LINK_HERE" width="150" height="150" style="border-radius:50%;" alt="Sarthak Jejurkar"/>
+<br><br>
 
-### Sarthak Jejurkar
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td width="60%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI;Turning+Raw+Data+into+Real+Decisions;B.Tech+CSE+%7C+Class+of+2027"/>
+<h1>Sarthak Jejurkar</h1>
 
-<a href="mailto:sarthakjejurkar7038@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Chhatrapati%20Sambhajinagar%2C%20MH-informational?style=for-the-badge&logo=googlemaps&logoColor=white&color=purple"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1200&color=2A5298&center=false&vCenter=true&width=480&lines=Data+Analyst+in+the+Making;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas;B.Tech+CSE+%C2%B7+Class+of+2027"/>
+
+<br>
+
+📍 Chhatrapati Sambhajinagar, MH  ·  📧 sarthakjejurkar7038@gmail.com
+
+<br><br>
+
+[![Email](https://img.shields.io/badge/-Email-1e3c72?style=flat-square&logo=gmail&logoColor=white)](mailto:sarthakjejurkar7038@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2a5298?style=flat-square&logo=linkedin&logoColor=white)](#)
+
+</td>
+<td width="40%" align="center">
+
+<img src="PASTE_YOUR_PHOTO_LINK_HERE" width="170" height="170" style="border-radius:50%; border:3px solid #2a5298;" alt="Sarthak Jejurkar"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=6&width=1000"/>
 
 </div>
 
@@ -60,7 +80,7 @@ Open To: Data Analyst Roles · Internships · Analytics Collaborations
 
 ## 💼 Experience
 
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td width="50%" valign="top">
 
