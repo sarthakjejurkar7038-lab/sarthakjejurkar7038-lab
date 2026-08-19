@@ -1,8 +1,6 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c6ff&height=180&section=header&text=Sarthak%20Jejurkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/><br><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1200&color=2A5298&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Visualization+%26+Business+Insights;B.Tech+Computer+Science+%26+Engineering"/><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c6ff&height=180&section=header&text=Sarthak%20Jejurkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/><br><table border="0" cellspacing="0" cellpadding="15">
+<tr><td width="68%" valign="middle"><h2>👋 Hi, I'm Sarthak Jejurkar</h2><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1200&color=2A5298&center=false&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Visualization+%26+Business+Insights;B.Tech+Computer+Science+%26+Engineering"/><br>📍 Chhatrapati Sambhajinagar, Maharashtra
 
-<img src="https://github.com/user-attachments/assets/7d44731a-cf4f-4e12-995d-3c9802a44602" width="230" alt="Sarthak Jejurkar"/><br><br>
-
-📍 Chhatrapati Sambhajinagar, Maharashtra
 📧 sarthakjejurkar7038@gmail.com
 
 <br><br>
@@ -11,9 +9,8 @@
 <img src="https://img.shields.io/badge/Email-1e3c72?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/sarthak-jejurkar-6187aa315/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:00c6ff&height=4&width=800"/></div><br>👋 About Me
+</a></td><td width="32%" align="center" valign="middle"><img src="https://github.com/user-attachments/assets/7d44731a-cf4f-4e12-995d-3c9802a44602" width="220" height="220" alt="Sarthak Jejurkar"/></td></tr>
+</table><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:00c6ff&height=4&width=900"/></div><br>👋 About Me
 
 I'm a B.Tech Computer Science & Engineering student (2023–2027) focused on Data Analytics and Business Intelligence.
 
