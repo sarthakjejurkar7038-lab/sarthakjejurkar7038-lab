@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Sarthak%20Jejurkar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=65&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=180&section=header"/>
 
-<img src="profile.png" width="150" height="150" style="border-radius:50%;" alt="Sarthak Jejurkar"/>
+<img src="<img width="896" height="1076" alt="WhatsApp Image 2026-08-19 at 12 36 06 PM" src="https://github.com/user-attachments/assets/d73e4094-06fa-41b6-a989-9dfbd7a5dba8" />" width="150" height="150" style="border-radius:50%;" alt="Sarthak Jejurkar"/>
+
+### Sarthak Jejurkar
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI;Turning+Raw+Data+into+Real+Decisions;B.Tech+CSE+%7C+Class+of+2027"/>
 
 <a href="mailto:sarthakjejurkar7038@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
