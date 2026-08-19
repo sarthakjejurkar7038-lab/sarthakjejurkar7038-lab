@@ -1,93 +1,141 @@
-<h1 align="center">Hi there, I'm Sarthak Jejurkar 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Raw Data into Real Decisions</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:sarthakjejurkar7038@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Chhatrapati%20Sambhajinagar%2C%20MH-informational?style=flat"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Sarthak%20Jejurkar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=65&descSize=18"/>
 
----
+<img src="profile.png" width="150" height="150" style="border-radius:50%;" alt="Sarthak Jejurkar"/>
 
-### 🎯 About Me
+<a href="mailto:sarthakjejurkar7038@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Chhatrapati%20Sambhajinagar%2C%20MH-informational?style=for-the-badge&logo=googlemaps&logoColor=white&color=purple"/>
 
-I'm a final-year *B.Tech Computer Science Engineering* student (2023–2027) who enjoys the moment messy data turns into a clean insight someone can actually act on. My focus is *data analytics* — cleaning data, digging into it, and building dashboards that tell a story instead of just showing numbers.
+</div>
 
-Right now I'm working as a *Data Analyst Intern at Infosys Springboard, building a **Medical Operations Intelligence Dashboard* — an end-to-end healthcare analytics project covering treatment demand, bottlenecks, and capacity strain, built with Python, Dash, and Plotly.
+<br>
 
-- 🔭 Currently building: *Medical Operations Intelligence Dashboard* (team project — Infosys Springboard)
-- 🌱 Currently strengthening: SQL problem-solving & core CS fundamentals for placements (Accenture, TCS NQT)
-- 💬 Ask me about: Power BI dashboards, EDA, data cleaning pipelines
-- ⚡ Fun fact: I like taking a dataset nobody wants to touch and making it presentable
+## 👋 About Me
 
----
+I'm a final-year *B.Tech Computer Science Engineering* student (2023–2027), working toward a career in *Data Analytics*. I focus on turning messy, real-world datasets into dashboards and insights that stakeholders can actually act on — not just charts for the sake of charts.
 
-### 🛠️ Tech Stack
+Currently a *Data Analyst Intern at Infosys Springboard, building a **Medical Operations Intelligence Dashboard* — a team project analyzing healthcare bed utilization, workforce allocation, and facility performance using Python, Dash, and Plotly.
+
+yaml
+Role: Data Analyst Intern @ Infosys Springboard
+Background: Data Analyst & AI Intern @ NoviTech R&D Pvt Ltd
+Education: B.Tech CSE, CSMSS Chh. Shahu College of Engineering (2023–2027)
+Currently Building: Medical Operations Intelligence Dashboard
+Currently Sharpening: SQL + DSA for Accenture & TCS NQT placements
+Open To: Data Analyst Roles · Internships · Analytics Collaborations
+
+
+<br>
+
+## 🧰 Tech Stack
+
+<div align="center">
 
 *Languages*
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
-*Data Analysis & Visualization*
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-</p>
+*Analysis & Visualization*
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 *Tools*
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode"/>
 
----
+</div>
 
-### 💼 Experience
+<br>
 
-*Data Analyst Intern — Infosys Springboard* (Jul 2026 – Present)
-Working with Python, SQL, Excel, and Power BI for data preprocessing, analysis, and visualization as part of a live team project.
+## 💼 Experience
 
-*Data Analyst & AI Intern — NoviTech R&D Pvt Ltd* (Jul 2025 – Aug 2025)
-Performed data cleaning, EDA, and predictive modeling in Python; built dashboards and business insights using SQL, Excel, and Power BI.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+*Data Analyst Intern*
+Infosys Springboard · Jul 2026 – Present
 
-### 🚀 Featured Projects
+Working with Python, SQL, Excel, and Power BI on real-time healthcare analytics — building the Medical Operations Intelligence Dashboard as part of a team project covering bed utilization, workforce allocation, and facility performance.
 
-*🏥 Medical Operations Intelligence Dashboard*
-Team project analyzing healthcare operations data — treatment demand, bottlenecks, and capacity strain — built with Python, Dash, Plotly, and Pandas, deployed via interactive HTML dashboards.
+</td>
+<td width="50%" valign="top">
 
-*🛒 Blinkit E-Commerce Sales Analysis Dashboard*
-Power BI dashboard analyzing $1.2M+ in sales across 8,523 items — tracked KPIs like average sales, ratings, and item visibility; cleaned data across 4 outlet types and 3 location tiers using Power Query.
+*Data Analyst & AI Intern*
+NoviTech R&D Pvt Ltd · Jul 2025 – Aug 2025
 
-*📱 Smartphone Sales Analysis Dashboard*
-Dynamic dashboard analyzing brand performance, revenue trends, and customer purchasing patterns with interactive KPIs.
+Performed data cleaning, EDA, and predictive modeling in Python. Built dashboards and generated business insights using SQL, Excel, and Power BI.
 
----
+</td>
+</tr>
+</table>
 
-### 🏆 Certifications
+<br>
 
-- Data Analytics Job Simulation — *Deloitte Australia* (Forage)
-- GenAI Powered Data Analytics Job Simulation — *Tata* (Forage)
-- Data Analytics Internship Certificate — *NoviTech R&D Pvt Ltd*
-- Artificial Intelligence (AI) Internship Certificate — *NoviTech R&D Pvt Ltd*
+## 🚀 Featured Projects
 
----
+### 🏥 Medical Operations Intelligence Dashboard
+Python · Dash · Plotly · Pandas
+Team project turning raw healthcare admissions, billing, and lab data into interactive dashboards tracking treatment demand, capacity strain, and department-level bottlenecks — deployed as standalone HTML dashboards.
 
-### 📊 GitHub Stats
+### 🛒 Blinkit E-Commerce Sales Analysis Dashboard
+Power BI · Power Query
+Interactive dashboard analyzing *$1.2M+ in sales* across *8,523 items*, tracking KPIs like average sales (₹141), average rating (3.9/5), and item visibility. Cleaned and transformed data across 4 outlet types, 3 outlet sizes, and 3 location tiers to surface regional and category-level trends.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+### 📱 Smartphone Sales Analysis Dashboard
+Power BI
+Dynamic dashboard analyzing brand performance, revenue trends, and customer purchasing patterns — built to support data-driven business decisions through interactive KPIs and filters.
 
----
+<br>
 
-<p align="center"><i>Open to Data Analyst roles & collaborations — let's connect!</i></p>
+## 🏆 Certifications
+
+| Issuer | Certification |
+|---|---|
+| Deloitte Australia (Forage) | Data Analytics Job Simulation |
+| Tata (Forage) | GenAI Powered Data Analytics Job Simulation |
+| NoviTech R&D Pvt Ltd | Data Analytics Internship Certificate |
+| NoviTech R&D Pvt Ltd | Artificial Intelligence (AI) Internship Certificate |
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarthakjejurkar7038-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakjejurkar7038-lab&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjejurkar7038-lab&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakjejurkar7038-lab&theme=tokyo-night&hide_border=true" width="97%"/>
+
+</div>
+
+<br>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sarthakjejurkar7038-lab&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
+
+<br>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="mailto:sarthakjejurkar7038@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+Open to Data Analyst roles, internships, and analytics collaborations
+
+</div>
