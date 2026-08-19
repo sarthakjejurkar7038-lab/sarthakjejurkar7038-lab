@@ -1,17 +1,19 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=6&width=1000"/><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c6ff&height=180&section=header&text=Sarthak%20Jejurkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/><br><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1200&color=2A5298&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Visualization+%26+Business+Insights;B.Tech+Computer+Science+%26+Engineering"/><br><br>
 
-<table border="0" cellspacing="0" cellpadding="10">
-<tr><td width="65%" valign="middle"><h1>Sarthak Jejurkar</h1><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1500&color=2A5298&center=false&vCenter=true&width=520&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Visualization+%26+Business+Insights;B.Tech+Computer+Science+%26+Engineering"/><br>📍 Chhatrapati Sambhajinagar, Maharashtra
+<img src="https://github.com/user-attachments/assets/7d44731a-cf4f-4e12-995d-3c9802a44602" width="230" alt="Sarthak Jejurkar"/><br><br>
+
+📍 Chhatrapati Sambhajinagar, Maharashtra
 📧 sarthakjejurkar7038@gmail.com
 
 <br><br>
 
 <a href="mailto:sarthakjejurkar7038@gmail.com">
-<img src="https://img.shields.io/badge/Email-1e3c72?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-1e3c72?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/sarthak-jejurkar-6187aa315/">
-<img src="https://img.shields.io/badge/LinkedIn-2A5298?style=flat-square&logo=linkedin&logoColor=white"/>
-</a></td><td width="35%" align="center"><img src="https://github.com/user-attachments/assets/7d44731a-cf4f-4e12-995d-3c9802a44602" width="180" height="180" style="border-radius:50%;" alt="Sarthak Jejurkar"/></td></tr>
-</table><img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=6&width=1000"/></div><br>👋 About Me
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:00c6ff&height=4&width=800"/></div><br>👋 About Me
 
 I'm a B.Tech Computer Science & Engineering student (2023–2027) focused on Data Analytics and Business Intelligence.
 
@@ -23,13 +25,12 @@ I also have previous internship experience as a Data Analyst & AI Intern at Novi
 
 🎯 Current Focus
 
-| 
-Role| Data Analyst Intern @ Infosys Springboard
-Background| Data Analyst & AI Intern @ NoviTech R&D Pvt Ltd
-Education| B.Tech CSE, CSMSS Chh. Shahu College of Engineering (2023–2027)
-Currently Building| Medical Operations Intelligence Dashboard
-Currently Sharpening| SQL + DSA for placement preparation
-Open To| Data Analyst Roles · Internships · Analytics Collaborations
+- 📊 Data Analytics & Business Intelligence
+- 🐍 Python for Data Analysis
+- 🗄️ SQL & Database Analysis
+- 📈 Power BI & Interactive Dashboards
+- 📑 Excel & Data Visualization
+- 💻 DSA & Placement Preparation
 
 <br>🧰 Tech Stack
 
@@ -119,12 +120,12 @@ NoviTech R&D Pvt Ltd| Artificial Intelligence (AI) Internship Certificate
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakjejurkar7038-lab&theme=tokyo-night&hide_border=true" width="97%"/></div><br>🏅 GitHub Trophies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sarthakjejurkar7038-lab&theme=tokyonight&no-frame=true&row=1&column=6"/></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer"/>📫 Let's Connect
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=sarthakjejurkar7038-lab&theme=tokyonight&no-frame=true&row=1&column=6"/></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c6ff&height=120&section=footer&animation=fadeIn"/>📫 Let's Connect
 
 <a href="mailto:sarthakjejurkar7038@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/sarthak-jejurkar-6187aa315/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><br><br>
 
 Open to Data Analyst roles, internships, and analytics collaborations.
