@@ -10,6 +10,7 @@
 
 <h1>Sarthak Jejurkar</h1>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1200&color=2A5298&center=false&vCenter=true&width=480&lines=Data+Analyst+in+the+Making;Python+%7C+SQL+%7C+Power+BI+%7C+Pandas;B.Tech+CSE+%C2%B7+Class+of+2027"/>
 
 <br>
@@ -24,7 +25,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="PASTE_YOUR_PHOTO_LINK_HERE" width="170" height="170" style="border-radius:50%; border:3px solid #2a5298;" alt="Sarthak Jejurkar"/>
+<img src="<img width="896" height="1076" alt="WhatsApp Image 2026-08-19 at 12 36 06 PM (1)" src="https://github.com/user-attachments/assets/7d44731a-cf4f-4e12-995d-3c9802a44602" />" width="170" height="170" style="border-radius:50%; border:3px solid #2a5298;" alt="Sarthak Jejurkar"/>
 
 </td>
 </tr>
